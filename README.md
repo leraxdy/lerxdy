@@ -1,1 +1,2 @@
-![snake gif](https://github.com/leraxdy/leraxdy/blob/output/github-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/leraxdy/leraxdy/output/ocean.gif)
+
